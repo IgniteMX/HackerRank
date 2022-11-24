@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+#https://www.hackerrank.com/challenges/py-if-else
 #!/bin/python3
 
 import math
